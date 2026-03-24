@@ -1,0 +1,1 @@
+{"name":"weather-scraper","version":"1.0.0","title":"Weather Scraper","description":"Current weather data","categories":["Weather"],"inputSchema":"INPUT.json","isPublic":true,"isCloud":true}
