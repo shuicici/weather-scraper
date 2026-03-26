@@ -1,0 +1,13 @@
+{
+    "actorOutputSchemaVersion": 1,
+    "title": "Weather Scraper Output",
+    "description": "Scraped weather data",
+    "properties": {
+        "weather": {
+            "title": "Weather Dataset",
+            "description": "Link to the dataset containing weather data",
+            "type": "string",
+            "template": "{{links.apiDefaultDatasetUrl}}"
+        }
+    }
+}
